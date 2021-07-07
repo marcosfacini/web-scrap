@@ -177,3 +177,5 @@ lista_imagens.clear();
 list_skills.clear();
 final_list_skill.clear();
  """
+
+ # obrigado!
